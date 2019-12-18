@@ -4,8 +4,10 @@
 
 
 Ride Share Analytics was done to ascertain the no. of people currently utilizing ride share services in different type of cities. The broad category of cities chosen were urban, suburban and rural. 
+
 Data was analyzed from the given CSV file and plotted in to scatter plot and various pie graphs. 
 The analysis showed the following results. 
+
 a.	The highest no of people who were using the ride share services resided in the urban cities. 
 b.	The average fares per rides were higher for urban cities in comparison to suburban and rural cities. 
 c.	The no. of drivers was also high in the urban areas which can be told as more number of people were willing to drive for ride share services in the urban cities than the other two categories. 
