@@ -2,7 +2,6 @@
 
 
 
-
 Ride Share Analytics was done to ascertain the no. of people currently utilizing ride share services in different type of cities. The broad category of cities chosen were urban, suburban and rural. 
 
 Data was analyzed from the given CSV file and plotted in to scatter plot and various pie graphs. 
