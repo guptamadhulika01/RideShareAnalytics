@@ -21,5 +21,4 @@ b.	People are willing to pay higher fares in the urban areas (if we are to launc
 
 c.	More people are ready / available to drive in urban cities so finding people who would drive for ride share services is easier. 
    
-
 Technologies Used: Python, Pandas, Jupyter Notebook, Matplotlib
