@@ -15,8 +15,11 @@ b.	The average fares per rides were higher for urban cities in comparison to sub
 c.	The no. of drivers was also high in the urban areas which can be told as more number of people were willing to drive for ride share services in the urban cities than the other two categories. 
 
 Take away from the Analysis:
+
 a.	There is high demand for ride share services in the urban areas. 
+
 b.	People are willing to pay higher fares in the urban areas (if we are to launch / offer ride share services, then we would have to factor the fares as per the type of cities where the ride share services are going to operate). 
+
 c.	More people are ready / available to drive in urban cities so finding people who would drive for ride share services is easier. 
    
 
